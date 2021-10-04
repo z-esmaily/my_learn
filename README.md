@@ -1,1 +1,1 @@
-# django_my_learn
+#my_learn
